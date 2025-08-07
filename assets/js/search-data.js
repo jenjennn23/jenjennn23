@@ -417,7 +417,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-officially-headed-to-uc-berkeley-this-fall-to-begin-my-phd-in-cognitive-psychology-working-with-dr-mariam-aly-it-has-been-a-long-time-dream-of-mine-to-pursue-grad-school-and-to-become-a-cognitive-neuroscientist-one-day-so-i-m-thrilled-to-begin-this-next-chapter-at-my-top-choice-program-and-lab-bear",
+            },},{id: "news-i-am-officially-headed-to-uc-berkeley-this-fall-to-begin-my-phd-in-cognitive-psychology-working-with-dr-mariam-aly-it-has-been-a-long-time-dream-of-mine-to-pursue-grad-school-and-to-become-a-cognitive-neuroscientist-one-day-so-i-m-thrilled-to-begin-this-next-chapter-at-my-top-choice-program-and-lab-ʕ-́ᴥ-̀ʔっ",
           title: 'I am officially headed to UC Berkeley this Fall to begin my PhD...',
           description: "",
           section: "News",},{id: "news-my-last-day-working-at-stanford-after-3-years-truly-a-bittersweet-moment-i-will-miss-the-supportive-brilliant-and-fun-group-of-people-i-had-the-privilege-of-working-with-now-off-to-europe-sparkles-smile",
