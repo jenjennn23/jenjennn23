@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an incoming first year Cognitive Psychology PhD student at UC Berkeley, advised by Dr. Mariam Aly. 
+
+My research interests lie in understanding how we leverage episodic memories to generate predictions about the world around us, and how mnemonic predictions & mnemonic prediction errors shape learning and memory. Broadly, I'm interested in the intersection of episodic memory, prediction, and cognitive mechanisms that support adaptive behavior. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
