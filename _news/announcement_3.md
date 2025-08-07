@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-My last day working at Stanford after 3 years! Truly a bittersweet moment - I will miss the supportive, brilliant, and fun group of people I had the privilege of working with.
-Now... off to Europe! :sparkles: :smile:
+My last day at Stanford after 3 years! Truly a bittersweet moment - I will miss the most supportive, brilliant, and fun group of people I have had the privilege of working with. 
+Now... off to Europe!(≧◡≦) 
