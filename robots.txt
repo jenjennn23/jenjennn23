@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jenjennn23.github.io/jenjennn23//sitemap.xml
+Sitemap: https://jenjennn23.github.io/sitemap.xml
