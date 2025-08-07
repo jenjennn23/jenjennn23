@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-am-officially-headed-to-uc-berkeley-this-fall-to-begin-my-phd-in-cognitive-psychology-working-with-dr-mariam-aly-it-s-been-a-long-time-dream-of-mine-to-go-to-grad-school-and-become-a-cognitive-neuroscientist-one-day-so-i-m-thrilled-to-begin-this-next-chapter-at-my-top-choice-program-and-lab-bear-thankful-to-my-village-at-stanford-my-family-and-friends-for-supporting-my-journey-to-grad-school",
+          title: 'I am officially headed to UC Berkeley this Fall to begin my PhD...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
