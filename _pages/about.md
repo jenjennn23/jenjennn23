@@ -29,8 +29,8 @@ latest_posts:
 
 I'm an incoming first year Cognitive Psychology PhD student at UC Berkeley, advised by Dr. Mariam Aly. 
 
-My research interests lie in understanding how we leverage episodic memories to generate predictions about the world around us, and how mnemonic predictions & mnemonic prediction errors shape learning and memory. Broadly, I'm interested in the intersection of episodic memory, prediction, and cognitive mechanisms that support adaptive behavior. 
+My research interests lie in understanding how we leverage episodic memories to generate predictions about the world around us, and how mnemonic predictions & mnemonic prediction errors shape learning and memory. Broadly, I'm interested in the intersection of episodic memory, prediction, and cognitive mechanisms that support adaptive behavior. In short, I'm fascinated by episodic memory!
 
-When I'm not doing science, I'm usually at the gym, playing sports, or listening to my favorite artists perform live.
+When I'm not doing science, I'm typically at the gym, playing sports, or listening to my favorite artists perform live in the bay.
 
 
